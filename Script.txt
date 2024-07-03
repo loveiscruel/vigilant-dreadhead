@@ -1,7 +1,7 @@
 repeat task.wait() until game:IsLoaded()
 
 local function reject()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/loveiscruel/vigilant-dreadhead/main/script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/loveiscruel/vigilant-dreadhead/main/Script"))()
 wait(100000000000)
 end
 
